@@ -1,6 +1,7 @@
  [
       {
         "chef_id": "1",
+        "bio" : "I  am  a rising star in the culinary world, known for my  innovative dishes and creative use of ingredients. I began my  career in my  hometown of Houston, Texas, where I worked in several top restaurants and honed my  skills in a variety of cuisines.",
         "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&ga=GA1.1.851868874.1681142710&semt=sph",
         "chef_name": "Alice Johnson",
         "years_of_experience": 8,
@@ -26,7 +27,7 @@
                     "Sugar",
                     "Salt"
                   ],
-                  "method": "1. Cut the chicken breast into small pieces and marinate with Shaoxing wine and light soy sauce; 2. Cut the dried chili peppers into small pieces and remove the seeds; 3. Heat the wok with oil and sauté the dried chili peppers, green onions, ginger, and garlic; 4. Add the chicken and stir-fry until the color changes, then add the peanuts; 5. Add the dark soy sauce, vinegar, sugar, and salt and stir-fry for another minute.",
+                  "method": "1. Cut the chicken breast into small pieces and marinate with Shaoxing wine and light soy sauce; 2. Cut the dried chili peppers into small pieces and remove the seeds; 3. Heat the wok with oil and sauté the dried chili peppers, green onions, ginger, and garlic; 4. Add the chicken and stir-fry until the color changes, then add the peanuts; 5. Add the dark soy sauce, vinegar, sugar, and salt and stir-fry for anotmy  minute.",
                   "rating": 4.5,
                   "favorite": false
                 },
@@ -45,7 +46,7 @@
                     "Cornstarch",
                     "Water"
                   ],
-                  "method": "1. Cut the tofu into small cubes and soak in hot water for 10 minutes; 2. Heat the wok with oil and sauté the Sichuan peppercorns, garlic, and ginger; 3. Add the ground pork and stir-fry until cooked; 4. Add the doubanjiang and green onions and continue to stir-fry for another minute; 5. Add the tofu, soy sauce, Shaoxing wine, and enough water to cover the tofu, then simmer for 5-10 minutes; 6. Mix the cornstarch with water and add to the wok, stir until the sauce thickens.",
+                  "method": "1. Cut the tofu into small cubes and soak in hot water for 10 minutes; 2. Heat the wok with oil and sauté the Sichuan peppercorns, garlic, and ginger; 3. Add the ground pork and stir-fry until cooked; 4. Add the doubanjiang and green onions and continue to stir-fry for anotmy  minute; 5. Add the tofu, soy sauce, Shaoxing wine, and enough water to cover the tofu, then simmer for 5-10 minutes; 6. Mix the cornstarch with water and add to the wok, stir until the sauce thickens.",
                   "rating": 4.8,
                   "favorite": true
                 },
@@ -73,6 +74,7 @@
       },
       {
         "chef_id": "2",
+        "bio" : "I  am  a rising star in the culinary world, known for my  innovative dishes and creative use of ingredients. I began my  career in my  hometown of Houston, Texas, where I worked in several top restaurants and honed my  skills in a variety of cuisines.",
         "chef_picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.1.851868874.1681142710&semt=sph",
         "chef_name": "Bob Smith",
         "years_of_experience": 12,
@@ -98,7 +100,7 @@
                     "Sugar",
                     "Salt"
                   ],
-                  "method": "1. Cut the chicken breast into small pieces and marinate with Shaoxing wine and light soy sauce; 2. Cut the dried chili peppers into small pieces and remove the seeds; 3. Heat the wok with oil and sauté the dried chili peppers, green onions, ginger, and garlic; 4. Add the chicken and stir-fry until the color changes, then add the peanuts; 5. Add the dark soy sauce, vinegar, sugar, and salt and stir-fry for another minute.",
+                  "method": "1. Cut the chicken breast into small pieces and marinate with Shaoxing wine and light soy sauce; 2. Cut the dried chili peppers into small pieces and remove the seeds; 3. Heat the wok with oil and sauté the dried chili peppers, green onions, ginger, and garlic; 4. Add the chicken and stir-fry until the color changes, then add the peanuts; 5. Add the dark soy sauce, vinegar, sugar, and salt and stir-fry for anotmy  minute.",
                   "rating": 4.5,
                   "favorite": false
                 },
@@ -117,7 +119,7 @@
                     "Cornstarch",
                     "Water"
                   ],
-                  "method": "1. Cut the tofu into small cubes and soak in hot water for 10 minutes; 2. Heat the wok with oil and sauté the Sichuan peppercorns, garlic, and ginger; 3. Add the ground pork and stir-fry until cooked; 4. Add the doubanjiang and green onions and continue to stir-fry for another minute; 5. Add the tofu, soy sauce, Shaoxing wine, and enough water to cover the tofu, then simmer for 5-10 minutes; 6. Mix the cornstarch with water and add to the wok, stir until the sauce thickens.",
+                  "method": "1. Cut the tofu into small cubes and soak in hot water for 10 minutes; 2. Heat the wok with oil and sauté the Sichuan peppercorns, garlic, and ginger; 3. Add the ground pork and stir-fry until cooked; 4. Add the doubanjiang and green onions and continue to stir-fry for anotmy  minute; 5. Add the tofu, soy sauce, Shaoxing wine, and enough water to cover the tofu, then simmer for 5-10 minutes; 6. Mix the cornstarch with water and add to the wok, stir until the sauce thickens.",
                   "rating": 4.8,
                   "favorite": true
                 },
@@ -145,6 +147,7 @@
       },
       {
         "chef_id": "3",
+        "bio" : "I  am  a rising star in the culinary world, known for my  innovative dishes and creative use of ingredients. I began my  career in my  hometown of Houston, Texas, where I worked in several top restaurants and honed my  skills in a variety of cuisines.",
         "chef_picture": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-standing-with-closed-posture-showing-empty-hand-isolated-orange-wall-with-copy-space_141793-101297.jpg?size=626&ext=jpg&ga=GA1.1.851868874.1681142710&semt=sph",
         "chef_name": "Cathy Lee",
         "years_of_experience": 5,
@@ -170,7 +173,7 @@
                     "Sugar",
                     "Salt"
                   ],
-                  "method": "1. Cut the chicken breast into small pieces and marinate with Shaoxing wine and light soy sauce; 2. Cut the dried chili peppers into small pieces and remove the seeds; 3. Heat the wok with oil and sauté the dried chili peppers, green onions, ginger, and garlic; 4. Add the chicken and stir-fry until the color changes, then add the peanuts; 5. Add the dark soy sauce, vinegar, sugar, and salt and stir-fry for another minute.",
+                  "method": "1. Cut the chicken breast into small pieces and marinate with Shaoxing wine and light soy sauce; 2. Cut the dried chili peppers into small pieces and remove the seeds; 3. Heat the wok with oil and sauté the dried chili peppers, green onions, ginger, and garlic; 4. Add the chicken and stir-fry until the color changes, then add the peanuts; 5. Add the dark soy sauce, vinegar, sugar, and salt and stir-fry for anotmy  minute.",
                   "rating": 4.5,
                   "favorite": false
                 },
@@ -189,7 +192,7 @@
                     "Cornstarch",
                     "Water"
                   ],
-                  "method": "1. Cut the tofu into small cubes and soak in hot water for 10 minutes; 2. Heat the wok with oil and sauté the Sichuan peppercorns, garlic, and ginger; 3. Add the ground pork and stir-fry until cooked; 4. Add the doubanjiang and green onions and continue to stir-fry for another minute; 5. Add the tofu, soy sauce, Shaoxing wine, and enough water to cover the tofu, then simmer for 5-10 minutes; 6. Mix the cornstarch with water and add to the wok, stir until the sauce thickens.",
+                  "method": "1. Cut the tofu into small cubes and soak in hot water for 10 minutes; 2. Heat the wok with oil and sauté the Sichuan peppercorns, garlic, and ginger; 3. Add the ground pork and stir-fry until cooked; 4. Add the doubanjiang and green onions and continue to stir-fry for anotmy  minute; 5. Add the tofu, soy sauce, Shaoxing wine, and enough water to cover the tofu, then simmer for 5-10 minutes; 6. Mix the cornstarch with water and add to the wok, stir until the sauce thickens.",
                   "rating": 4.8,
                   "favorite": true
                 },
@@ -217,6 +220,7 @@
       },
       {
         "chef_id": "4",
+        "bio" : "I  am  a rising star in the culinary world, known for my  innovative dishes and creative use of ingredients. I began my  career in my  hometown of Houston, Texas, where I worked in several top restaurants and honed my  skills in a variety of cuisines.",
         "chef_picture": "https://img.freepik.com/free-photo/chef-holding-pan-with-fire-inside_144627-16644.jpg?size=626&ext=jpg&ga=GA1.2.851868874.1681142710&semt=sph",
         "chef_name": "David Nguyen",
         "years_of_experience": 10,
@@ -242,7 +246,7 @@
                     "Sugar",
                     "Salt"
                   ],
-                  "method": "1. Cut the chicken breast into small pieces and marinate with Shaoxing wine and light soy sauce; 2. Cut the dried chili peppers into small pieces and remove the seeds; 3. Heat the wok with oil and sauté the dried chili peppers, green onions, ginger, and garlic; 4. Add the chicken and stir-fry until the color changes, then add the peanuts; 5. Add the dark soy sauce, vinegar, sugar, and salt and stir-fry for another minute.",
+                  "method": "1. Cut the chicken breast into small pieces and marinate with Shaoxing wine and light soy sauce; 2. Cut the dried chili peppers into small pieces and remove the seeds; 3. Heat the wok with oil and sauté the dried chili peppers, green onions, ginger, and garlic; 4. Add the chicken and stir-fry until the color changes, then add the peanuts; 5. Add the dark soy sauce, vinegar, sugar, and salt and stir-fry for anotmy  minute.",
                   "rating": 4.5,
                   "favorite": false
                 },
@@ -261,7 +265,7 @@
                     "Cornstarch",
                     "Water"
                   ],
-                  "method": "1. Cut the tofu into small cubes and soak in hot water for 10 minutes; 2. Heat the wok with oil and sauté the Sichuan peppercorns, garlic, and ginger; 3. Add the ground pork and stir-fry until cooked; 4. Add the doubanjiang and green onions and continue to stir-fry for another minute; 5. Add the tofu, soy sauce, Shaoxing wine, and enough water to cover the tofu, then simmer for 5-10 minutes; 6. Mix the cornstarch with water and add to the wok, stir until the sauce thickens.",
+                  "method": "1. Cut the tofu into small cubes and soak in hot water for 10 minutes; 2. Heat the wok with oil and sauté the Sichuan peppercorns, garlic, and ginger; 3. Add the ground pork and stir-fry until cooked; 4. Add the doubanjiang and green onions and continue to stir-fry for anotmy  minute; 5. Add the tofu, soy sauce, Shaoxing wine, and enough water to cover the tofu, then simmer for 5-10 minutes; 6. Mix the cornstarch with water and add to the wok, stir until the sauce thickens.",
                   "rating": 4.8,
                   "favorite": true
                 },
@@ -289,6 +293,7 @@
       },
       {
         "chef_id": "5",
+        "bio" : "I  am  a rising star in the culinary world, known for my  innovative dishes and creative use of ingredients. I began my  career in my  hometown of Houston, Texas, where I worked in several top restaurants and honed my  skills in a variety of cuisines.",
         "chef_picture": "https://img.freepik.com/free-photo/cook-uniform-holding-salad-showing-okay-gesture_171337-5345.jpg?size=626&ext=jpg&ga=GA1.2.851868874.1681142710&semt=sph",
         "chef_name": "Emily Rodriguez",
         "years_of_experience": 7,
@@ -314,7 +319,7 @@
                     "Sugar",
                     "Salt"
                   ],
-                  "method": "1. Cut the chicken breast into small pieces and marinate with Shaoxing wine and light soy sauce; 2. Cut the dried chili peppers into small pieces and remove the seeds; 3. Heat the wok with oil and sauté the dried chili peppers, green onions, ginger, and garlic; 4. Add the chicken and stir-fry until the color changes, then add the peanuts; 5. Add the dark soy sauce, vinegar, sugar, and salt and stir-fry for another minute.",
+                  "method": "1. Cut the chicken breast into small pieces and marinate with Shaoxing wine and light soy sauce; 2. Cut the dried chili peppers into small pieces and remove the seeds; 3. Heat the wok with oil and sauté the dried chili peppers, green onions, ginger, and garlic; 4. Add the chicken and stir-fry until the color changes, then add the peanuts; 5. Add the dark soy sauce, vinegar, sugar, and salt and stir-fry for anotmy  minute.",
                   "rating": 4.5,
                   "favorite": false
                 },
@@ -333,7 +338,7 @@
                     "Cornstarch",
                     "Water"
                   ],
-                  "method": "1. Cut the tofu into small cubes and soak in hot water for 10 minutes; 2. Heat the wok with oil and sauté the Sichuan peppercorns, garlic, and ginger; 3. Add the ground pork and stir-fry until cooked; 4. Add the doubanjiang and green onions and continue to stir-fry for another minute; 5. Add the tofu, soy sauce, Shaoxing wine, and enough water to cover the tofu, then simmer for 5-10 minutes; 6. Mix the cornstarch with water and add to the wok, stir until the sauce thickens.",
+                  "method": "1. Cut the tofu into small cubes and soak in hot water for 10 minutes; 2. Heat the wok with oil and sauté the Sichuan peppercorns, garlic, and ginger; 3. Add the ground pork and stir-fry until cooked; 4. Add the doubanjiang and green onions and continue to stir-fry for anotmy  minute; 5. Add the tofu, soy sauce, Shaoxing wine, and enough water to cover the tofu, then simmer for 5-10 minutes; 6. Mix the cornstarch with water and add to the wok, stir until the sauce thickens.",
                   "rating": 4.8,
                   "favorite": true
                 },
@@ -361,6 +366,7 @@
       },
       {
         "chef_id": "6",
+        "bio" : "I  am  a rising star in the culinary world, known for my  innovative dishes and creative use of ingredients. I began my career in my  hometown of Houston, Texas, where I worked in several top restaurants and honed my  skills in a variety of cuisines.",
         "chef_picture": "https://img.freepik.com/free-photo/chef-posing-with-knife-his-kitchen_155003-504.jpg?size=626&ext=jpg&ga=GA1.1.851868874.1681142710&semt=sph",
         "chef_name": "Frank Chen",
         "years_of_experience": 15,
@@ -386,7 +392,7 @@
                     "Sugar",
                     "Salt"
                   ],
-                  "method": "1. Cut the chicken breast into small pieces and marinate with Shaoxing wine and light soy sauce; 2. Cut the dried chili peppers into small pieces and remove the seeds; 3. Heat the wok with oil and sauté the dried chili peppers, green onions, ginger, and garlic; 4. Add the chicken and stir-fry until the color changes, then add the peanuts; 5. Add the dark soy sauce, vinegar, sugar, and salt and stir-fry for another minute.",
+                  "method": "1. Cut the chicken breast into small pieces and marinate with Shaoxing wine and light soy sauce; 2. Cut the dried chili peppers into small pieces and remove the seeds; 3. Heat the wok with oil and sauté the dried chili peppers, green onions, ginger, and garlic; 4. Add the chicken and stir-fry until the color changes, then add the peanuts; 5. Add the dark soy sauce, vinegar, sugar, and salt and stir-fry for anotmy  minute.",
                   "rating": 4.5,
                   "favorite": false
                 },
@@ -405,7 +411,7 @@
                     "Cornstarch",
                     "Water"
                   ],
-                  "method": "1. Cut the tofu into small cubes and soak in hot water for 10 minutes; 2. Heat the wok with oil and sauté the Sichuan peppercorns, garlic, and ginger; 3. Add the ground pork and stir-fry until cooked; 4. Add the doubanjiang and green onions and continue to stir-fry for another minute; 5. Add the tofu, soy sauce, Shaoxing wine, and enough water to cover the tofu, then simmer for 5-10 minutes; 6. Mix the cornstarch with water and add to the wok, stir until the sauce thickens.",
+                  "method": "1. Cut the tofu into small cubes and soak in hot water for 10 minutes; 2. Heat the wok with oil and sauté the Sichuan peppercorns, garlic, and ginger; 3. Add the ground pork and stir-fry until cooked; 4. Add the doubanjiang and green onions and continue to stir-fry for anotmy  minute; 5. Add the tofu, soy sauce, Shaoxing wine, and enough water to cover the tofu, then simmer for 5-10 minutes; 6. Mix the cornstarch with water and add to the wok, stir until the sauce thickens.",
                   "rating": 4.8,
                   "favorite": true
                 },
