@@ -1,0 +1,51 @@
+ [
+      {
+        "chef_id": "1",
+        "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&ga=GA1.1.851868874.1681142710&semt=sph",
+        "chef_name": "Alice Johnson",
+        "years_of_experience": 8,
+        "num_recipes": 10,
+        "likes": 150
+      },
+      {
+        "chef_id": "2",
+        "chef_picture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.1.851868874.1681142710&semt=sph",
+        "chef_name": "Bob Smith",
+        "years_of_experience": 12,
+        "num_recipes": 75,
+        "likes": 1000
+      },
+      {
+        "chef_id": "3",
+        "chef_picture": "https://img.freepik.com/free-photo/confident-young-male-cook-chef-uniform-standing-with-closed-posture-showing-empty-hand-isolated-orange-wall-with-copy-space_141793-101297.jpg?size=626&ext=jpg&ga=GA1.1.851868874.1681142710&semt=sph",
+        "chef_name": "Cathy Lee",
+        "years_of_experience": 5,
+        "num_recipes": 20,
+        "likes": 250
+      },
+      {
+        "chef_id": "4",
+        "chef_picture": "https://img.freepik.com/free-photo/chef-holding-pan-with-fire-inside_144627-16644.jpg?size=626&ext=jpg&ga=GA1.2.851868874.1681142710&semt=sph",
+        "chef_name": "David Nguyen",
+        "years_of_experience": 10,
+        "num_recipes": 50,
+        "likes": 750
+      },
+      {
+        "chef_id": "5",
+        "chef_picture": "https://img.freepik.com/free-photo/cook-uniform-holding-salad-showing-okay-gesture_171337-5345.jpg?size=626&ext=jpg&ga=GA1.2.851868874.1681142710&semt=sph",
+        "chef_name": "Emily Rodriguez",
+        "years_of_experience": 7,
+        "num_recipes": 40,
+        "likes": 600
+      },
+      {
+        "chef_id": "6",
+        "chef_picture": "https://img.freepik.com/free-photo/chef-posing-with-knife-his-kitchen_155003-504.jpg?size=626&ext=jpg&ga=GA1.1.851868874.1681142710&semt=sph",
+        "chef_name": "Frank Chen",
+        "years_of_experience": 15,
+        "num_recipes": 100,
+        "likes": 2000
+      }
+    ]
+  
